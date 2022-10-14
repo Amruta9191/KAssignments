@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fb934c5-7182-4269-ae98-3e471a4b27a7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +32,41 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "17"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="EvenOddUserInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EvenOddUserInput" />
+  <component name="RunManager" selected="Application.ArmstrongNumber">
+    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArmstrongNumber" />
+      <module name="SecondAssignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FibonacciSeries" />
+      <module name="SecondAssignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="INRUSD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="INRUSD" />
+      <module name="SecondAssignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LargestNumber" />
+      <module name="SecondAssignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Palindrome" />
       <module name="SecondAssignments" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -45,7 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EvenOddUserInput" />
+        <item itemvalue="Application.ArmstrongNumber" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.FibonacciSeries" />
+        <item itemvalue="Application.INRUSD" />
+        <item itemvalue="Application.LargestNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -70,5 +103,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SecondAssignments/src/Palindrome.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

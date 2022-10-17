@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/KAssignments.iml" filepath="$PROJECT_DIR$/.idea/KAssignments.iml" />
       <module fileurl="file://$PROJECT_DIR$/SecondAssignments/SecondAssignments.iml" filepath="$PROJECT_DIR$/SecondAssignments/SecondAssignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThirdAssignments/ThirdAssignments.iml" filepath="$PROJECT_DIR$/ThirdAssignments/ThirdAssignments.iml" />
     </modules>
   </component>
 </project>
